@@ -1,6 +1,6 @@
 [support]: http://github.com/AliMD/1Tuts/issues "http://ali.md/ask"
-[changelog]: ./blob/master/CHANGELOG.md "One.js Change log"
-[contribute]: ./blob/master/CONTRIBUTING.md "How to contribute"
+[changelog]: ./CHANGELOG.md "One.js Change log"
+[contribute]: ./CONTRIBUTING.md "How to contribute"
 
 ## One.js
 One.js is a tiny JavaScript library for ninja js developers, with a jQuery-compatible API. 
