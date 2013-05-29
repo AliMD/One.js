@@ -1,0 +1,18 @@
+/* TEAM */
+
+  Author: Ali Mihandoost
+  Site: http://ali.md
+  Twitter: @AliMihandoost
+  Github: AliMD
+  Location: Mashhad, IR
+
+/* THANKS */
+
+  Mohammad Reza Shariatzadeh (Mampel), @Mrshcomsh
+  Ali aGHasizadeh, @aGHasizadeh
+
+/* SITE */
+
+Standards: JavaScript
+
+Source: http://github.com/AliMD/One.js

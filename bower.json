@@ -1,0 +1,14 @@
+{
+    "name": "One.js",
+    "version": "0.1",
+    "main": ["one.js"],
+    "author": "Ali Mihandoost",
+    "description": "One.js is a tiny JavaScript library for ninja js developers, with a jQuery-compatible API",
+    "keywords": ["one.js", "onejs","zepto","JQuery","JavaScript"],
+    "license": "Creative Commons Attribution 3.0",
+    "ignore": [
+        "CHANGELOG.md",
+        "CONTRIBUTING.md",
+        "component.json",
+    ]
+}
